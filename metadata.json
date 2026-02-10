@@ -1,0 +1,8 @@
+
+{
+  "name": "ProMail AI - Professional Email Generator",
+  "description": "A sophisticated AI-powered tool to generate professional emails in multiple languages and tones tailored to specific industries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
